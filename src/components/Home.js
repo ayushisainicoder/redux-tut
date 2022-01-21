@@ -1,5 +1,5 @@
 import React from 'react'
-import { removeToCart } from '../Service/actions/actions'
+import { addToCart } from '../Service/actions/actions'
 
 export default function Home(props) {
     console.log("Home", props)
